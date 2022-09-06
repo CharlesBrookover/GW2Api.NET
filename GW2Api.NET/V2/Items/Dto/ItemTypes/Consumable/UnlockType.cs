@@ -14,6 +14,7 @@
         Ms,
         Outfit,
         RandomUlock,
-        SharedSlot
+        SharedSlot,
+        JadeBotSkin
     }
 }
